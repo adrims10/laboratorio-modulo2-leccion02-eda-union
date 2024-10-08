@@ -19,7 +19,7 @@ Dentro del total de titulos destaca gran mayoria de peliculas con respecto a TV 
  🗂️ Estructura del Proyecto
 
      
-        ├── Datos/                 # Datos csv del analisi
+        ├── Datos/               # Datos csv del analisi
         ├── main.py              # Archivo jupyternotebook con el ejercicio
         ├── README.md            # Descripción del proyecto
       
