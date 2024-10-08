@@ -16,6 +16,17 @@ El idioma que mas destaca es el ingles.
 
 Dentro del total de titulos destaca gran mayoria de peliculas con respecto a TV shows, representando las peliculas un 69,961%.
 
+ 🗂️ Estructura del Proyecto
+
+     
+        ├── Datos/                 # Datos csv del analisi
+        ├── main.py              # Archivo jupyternotebook con el ejercicio
+        ├── README.md            # Descripción del proyecto
+      
+## 🛠️ Instalación y Requisitos
+        Este proyecto usa Python 3.12.6.
+        Se ha importado la libreria pandas.
+        Se ha importado la libreria numpys.
 
 *Proximos pasos*
 
